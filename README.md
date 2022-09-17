@@ -1,10 +1,9 @@
 ### Olá! Hello! Salut !
 
-- 🌱 Sou aluno de Engenharia de Software na Faculdade Damas no Recife-PE.
-- 🤔 Estudo Python e Linguagem C para reforçar lógica de programação. 
-- 💡 Estou estudando Desenvolvimento Mobile para Android.
-- 👅 Falo: Português 🇧🇷, Inglês 🇬🇧 e Francês 🇫🇷.
-- 🔭 Trabalho hoje como advogado e prof. de inglês.
+- 🌱 I'm a Software Engineering student at Damas College in Recife, Brazil.
+- 💡 I want to study more of Android Mobile Development .
+- 👅 I speak: Português 🇧🇷, English 🇬🇧 and Français 🇫🇷.
+- 🔭 I'm currently a lawyer and an ESL teacher.
 
 
 <div align="center">
