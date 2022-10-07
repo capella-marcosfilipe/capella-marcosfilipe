@@ -1,9 +1,9 @@
 ### Olá! Hello! Salut !
 
 - 🌱 I'm a Software Engineering student at Damas College in Recife, Brazil.
-- 💡 I want to study more of Android Mobile Development .
-- 👅 I speak: Português 🇧🇷, English 🇬🇧 and Français 🇫🇷.
-- 🔭 I'm currently a lawyer and an ESL teacher.
+- 💡 I want to study more of Web Development and Engineering itself.
+- 👅 I speak: Portuguese 🇧🇷, English 🇬🇧 and French 🇫🇷.
+- 🔭 My other jobs are reading, knitting and swimming.
 
 
 <div align="center">
