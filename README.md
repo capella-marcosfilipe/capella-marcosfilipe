@@ -3,7 +3,7 @@
 - 🌱 I'm a Software Engineering student at Damas College in Recife, Brazil.
 - 💡 I want to study more of Web Development and Engineering itself.
 - 👅 I speak: Portuguese 🇧🇷, English 🇬🇧 and French 🇫🇷.
-- 🔭 My other jobs are reading, knitting and swimming.
+- 🔭 My hobbies are reading, knitting and swimming.
 
 
 <div align="center">
