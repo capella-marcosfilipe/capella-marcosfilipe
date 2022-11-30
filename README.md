@@ -2,7 +2,9 @@
 
 - 🌱 I'm a Software Engineering student at Damas College in Recife, Brazil.
 - 💡 I want to study more of Web Development and Engineering itself.
-- 👅 I speak: Portuguese 🇧🇷, English 🇬🇧 and French 🇫🇷.
+- ⚖️ I'm a Law School Graduate with two LL.Ms in Tax Law and Civil Procedure who's in career transition.
+- 🏳️‍🌈 I'm a proud member of the LGBTQ+ community!
+- 👅 I'm trilingual: Portuguese 🇧🇷, English 🇬🇧 and French 🇫🇷.
 - 🔭 My hobbies are reading, knitting and swimming.
 
 
