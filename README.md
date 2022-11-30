@@ -1,8 +1,8 @@
 ### Olá! Hello! Salut !
 
-- 🌱 I'm a Software Engineering student at Damas College in Recife, Brazil.
+- 🌱 I'm in Software Engineering school pursuing a new career.
 - 💡 I want to study more of Web Development and Engineering itself.
-- ⚖️ I'm in career transition coming from an LL.B degree and two LL.M degrees in Tax and Civil Procedure.
+- ⚖️ I'm coming from an LL.B degree and two LL.M degrees in Tax and Civil Procedure.
 - 🏳️‍🌈 I'm a proud member of the LGBTQ+ community!
 - 👅 I'm trilingual: Portuguese 🇧🇷, English 🇬🇧 and French 🇫🇷.
 - 🔭 My hobbies are reading, knitting and swimming.
