@@ -13,9 +13,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=capella-marcosfilipe&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Marcos-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Marcos-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Marcos-Python" height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Marcos-Django" height="30" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img align="center" alt="Marcos-C" height="30" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" alt="Marcos-Java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Marcos-MySQL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
   
   ##
