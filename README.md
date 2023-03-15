@@ -1,11 +1,11 @@
 ### Olá! Hello! Salut !
 
-- 🌱 I'm in Software Engineering school pursuing a new career.
-- 💡 I want to study more of Web Development and Engineering itself.
-- ⚖️ I'm coming from an LL.B degree and two LL.M degrees in Tax and Civil Procedure.
-- 🏳️‍🌈 I'm a proud member of the LGBTQ+ community!
-- 👅 I'm trilingual: Portuguese 🇧🇷, English 🇬🇧 and French 🇫🇷.
+- 🌱 I'm a Software Engineering student.
+- 👨🏻‍💻 I'm also a Law School graduate pursuing a new career.
+
 - 🔭 My hobbies are reading, knitting and swimming.
+- 👅 I can speak: Portuguese 🇧🇷, English 🇬🇧 and French 🇫🇷.
+- 🏳️‍🌈 I'm gay and proud!
 
 
 <div align="center">
