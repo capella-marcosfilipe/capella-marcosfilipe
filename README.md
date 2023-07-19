@@ -2,21 +2,24 @@
 - 🌱 I'm a Software Engineering student.
 - 🔭 My hobbies are reading, knitting and swimming.
 - 👅 I can speak: Portuguese 🇧🇷, English 🇬🇧 and French 🇫🇷.
-- 🏳️‍🌈 I'm gay and proud!
+- 🏳️‍🌈 #proud
 <div>
-  <a href="https://www.linkedin.com/in/capella-marcosfilipe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" target="_blank"></a>
-  <a href="https://leetcode.com/capella-marcosfilipe/"><img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode"></a>
+  <a href="https://www.linkedin.com/in/capella-marcosfilipe" target="_blank"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://leetcode.com/capella-marcosfilipe/"><img height="20" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 </div>
 <br>
-<div align="center">
+<div align="left">
   <a href="https://github.com/capella-marcosfilipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=capella-marcosfilipe&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <h4>Languages</h4>
-  <img align="center" alt="Marcos-Java" height="30" src="https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="Marcos-Python" height="30" src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Marcos-C" height="30" src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" alt="Marcos-Javascript" height="30" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="Marcos-Typescript" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Marcos-NodeJS" height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="Marcos-ExpressJS" height="30" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+  <img align="center" alt="Marcos-Java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Marcos-Spring" height="30" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="Marcos-SQL" height="30" src="https://img.shields.io/badge/sql-grey?style=for-the-badge&logo=mysql&logoColor=white">
 </div>  
   
