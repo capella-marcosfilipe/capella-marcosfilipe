@@ -21,6 +21,7 @@
   <img align="center" alt="Marcos-Java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="Marcos-MongoDB" height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="Marcos-SQL" height="30" src="https://img.shields.io/badge/sql-grey?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center"alt="Marcos-Postgre"height="30"src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>  
   
   ##
