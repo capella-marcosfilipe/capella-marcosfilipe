@@ -1,4 +1,4 @@
-```ts
+ha```ts
 import Developer from "capella-marcosfilipe";
 
 class AboutMe extends Developer {
@@ -8,10 +8,11 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  languages = ["TypeScript, JavaScript, Java"];
+  languages = ["TypeScript", "JavaScript", "Java"];
+  libraries = ["React.js"];
   frameworks = ["Nest.js"];
   environment = ["Node.js"];
-  databases = ["MySQL, PostgreSQL, MongoDB"];
+  databases = ["MySQL", "PostgreSQL", "MongoDB"];
   preferredOS = ["Fedora", "Windows"];
 }
 ```
