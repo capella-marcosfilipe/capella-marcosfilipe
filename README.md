@@ -1,4 +1,4 @@
-ha```ts
+```
 import Developer from "capella-marcosfilipe";
 
 class AboutMe extends Developer {
