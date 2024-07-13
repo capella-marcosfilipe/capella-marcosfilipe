@@ -3,17 +3,15 @@ import Developer from "capella-marcosfilipe";
 
 class AboutMe extends Developer {
   name = "Marcos Filipe Capella";
-  field = "Back-End Web Development";
-  speaks = ["🇧🇷", "🇬🇧", "🇫🇷"];
+  field = "Web Development";
+  languages = ["🇧🇷", "🇬🇧", "🇫🇷"];
 }
 
 class Skills extends Developer {
-  languages = ["TypeScript", "JavaScript", "Java"];
+  languages = ["TypeScript", "JavaScript", "Python", "Java"];
   libraries = ["React.js"];
-  frameworks = ["Nest.js"];
   environment = ["Node.js"];
   databases = ["MySQL", "PostgreSQL", "MongoDB"];
-  preferredOS = ["Fedora", "Windows"];
 }
 ```
 <div>
