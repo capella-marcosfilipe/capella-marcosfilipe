@@ -1,18 +1,31 @@
-```ts
-import Developer from "capella-marcosfilipe";
+```py
+from capella_marcosfilipe import Developer
 
-class AboutMe extends Developer {
-  name = "Marcos Filipe Capella";
-  school = "Catholic University of Pernambuco";
-  field = "Web Development";
-  speaks = ["🇧🇷", "🇬🇧", "🇫🇷"];
-}
+class AboutMe(Developer):
+    def __init__(self):
+        super().__init__()
+        self.name = "Marcos Filipe Capella"
+        self.school = "Universidade Católica de Pernambuco"
+        self.location = "Recife, Brasil"
+        self.speaks = ["Português", "Inglês", "Francês"]
 
-class Skills extends Developer {
-  languages = ["TypeScript", "JavaScript", "Python", "Java"];
-  frameworks = ["Angular", "Spring Framework", "ReactJS"];
-  databases = ["MySQL", "PostgreSQL", "MongoDB"];
-}
+class Skills(Developer):
+    def __init__(self):
+        super().__init__()
+        self.languages = ["Python", "Java", "TypeScript"]
+        self.frameworks = ["FastAPI", "Java Spring Boot", "Angular"]
+        self.ai_ml = ["Aprendizado de Máquina", "IA Generativa (Google Gemini)", "NLP"]
+        self.databases = ["PostgreSQL", "MySQL", "MongoDB"]
+        self.tools_and_methods = ["Git", "Docker", "RESTful APIs", "Microsserviços", "Scrum"]
+
+class MyJourney(Developer):
+    def __init__(self):
+        super().__init__()
+        self.current_focus = "Desenvolvimento Full-Stack com especialização em IA e Dados"
+        self.main_project = "Chatbot de triagem médica (PIBIC)"
+        self.looking_for = ["Oportunidades em Engenharia de Machine Learning",
+                            "Vagas de Desenvolvedor que unem Web e IA"]
+
 ```
 <div>
 <a href="https://www.linkedin.com/in/capella-marcosfilipe" target="_blank"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
