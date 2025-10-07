@@ -14,17 +14,15 @@ class Skills(Developer):
         super().__init__()
         self.languages = ["Python", "Java", "TypeScript"]
         self.frameworks = ["FastAPI", "Java Spring Boot", "Angular"]
-        self.ai_ml = ["Aprendizado de Máquina", "IA Generativa (Google Gemini)", "NLP"]
+        self.ai_ml = ["Aprendizado de Máquina", "Visão Computacional", "IA Generativa (Google Gemini)", "NLP"]
         self.databases = ["PostgreSQL", "MySQL", "MongoDB"]
         self.tools_and_methods = ["Git", "Docker", "RESTful APIs", "Microsserviços", "Scrum"]
 
 class MyJourney(Developer):
     def __init__(self):
         super().__init__()
-        self.current_focus = "Desenvolvimento Full-Stack com especialização em IA e Dados"
+        self.current_focus = "Desenvolvimento Full-Stack com especialização em IA (ML/Computer Vision) e Dados"
         self.main_project = "Chatbot de triagem médica (PIBIC)"
-        self.looking_for = ["Oportunidades em Engenharia de Machine Learning",
-                            "Vagas de Desenvolvedor que unem Web e IA"]
 
 ```
 <div>
