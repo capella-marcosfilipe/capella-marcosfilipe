@@ -5,7 +5,7 @@ class AboutMe(Developer):
     def __init__(self):
         super().__init__()
         self.name = "Marcos Filipe Capella"
-        self.role = "Jr. AI Software Engineer @ FASA/UNICAP AI Center"
+        self.role = "Jr. AI Software Engineer @ UNICAP AI Center"
         self.research = "PIBIC 2025-2026 — LLM-based medical triage"
         self.school = "Universidade Católica de Pernambuco"
         self.location = "Recife, Brazil"
