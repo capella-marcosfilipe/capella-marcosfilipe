@@ -35,7 +35,7 @@ class MyJourney(Developer):
 |---|---|
 | [**medical-triage-chatbot-pibic2026**](https://github.com/capella-marcosfilipe/medical-triage-chatbot-pibic2026) | LLM triage chatbot grounded on the Manchester protocol via RAG — LangGraph, ChromaDB, RabbitMQ, Redis, Angular |
 | [**nemotron-chat-microservice**](https://github.com/capella-marcosfilipe/nemotron-chat-microservice) | Async LLM microservice: local GPU with NVIDIA API fallback, queue-based workers |
-| [**jornada-tecnologia-2026-fullstack-ia**](https://github.com/capella-marcosfilipe/jornada-tecnologia-2026-fullstack-ia) | Photo → BLIP vision → LangGraph/Groq agent → Angular dashboard (workshop I taught) |
+| [**mural-inteligente-unicap**](https://github.com/capella-marcosfilipe/mural-inteligente-unicap) | Photo → BLIP vision → LangGraph/Groq agent → Angular dashboard (workshop I taught) |
 | [**sabotage-similarity**](https://github.com/capella-marcosfilipe/sabotage-similarity) | End-to-end semantic search: scraping, embeddings, FastAPI, Docker |
 | [**selecao-dev-fullstack-unicap**](https://github.com/capella-marcosfilipe/selecao-dev-fullstack-unicap) | spaCy NER full-stack app, deployed on Vercel/Render |
 
